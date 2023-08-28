@@ -1,6 +1,5 @@
 import cv2 
 
-
 def motionDetection():
     # define a video capture object
     vid = cv2.VideoCapture(0)
